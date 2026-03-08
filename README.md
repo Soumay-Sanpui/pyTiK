@@ -1,5 +1,5 @@
   
-🎮 Tic-Tac-Toe: A Classic Game Reimagined 🎮
+🎮 Tic-Tac-Toe: A Classic 🎮
 ============================================
 
 Welcome to the world of Tic-Tac-Toe, where strategic brilliance meets nostalgic fun! This simple yet addictive game is now available in a sleek, modern interface. Dive in and experience the thrill of victory!
