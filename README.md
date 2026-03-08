@@ -1,10 +1,10 @@
   
-🎮 Tic-Tac-Toe: A Classic 🎮
+🎮 Tic-Tac-Toe: A Classic 
 ============================================
 
 Welcome to the world of Tic-Tac-Toe, where strategic brilliance meets nostalgic fun! This simple yet addictive game is now available in a sleek, modern interface. Dive in and experience the thrill of victory!
 
-🚀 Getting Started 🚀
+🚀 Getting Started 
 ---------------------
 
 Follow these simple steps to clone the repository and start playing:
@@ -23,7 +23,7 @@ Follow these simple steps to clone the repository and start playing:
 ```
 That's it! You're ready to challenge your friends to a game of Tic-Tac-Toe.
 
-🎯 How to Play 🎯
+🎯 How to Play 
 -----------------
 
 Playing Tic-Tac-Toe is simple:
@@ -33,7 +33,7 @@ Playing Tic-Tac-Toe is simple:
 3.  If all spaces on the grid are filled and no player has won, the game ends in a draw.
 4.  Click the restart button to play again!
 
-🌟 Features 🌟
+🌟 Features 
 --------------
 
 *   Intuitive GUI interface for seamless gameplay.
@@ -41,7 +41,7 @@ Playing Tic-Tac-Toe is simple:
 *   Simple restart option for endless entertainment.
 *   Lightweight and easy to run on any Python environment.
 
-🔧 Contributions 🔧
+🔧 Contributions 
 -------------------
 
 We welcome contributions to enhance the game experience! Whether it's adding new features, improving the UI, or fixing bugs, your contributions are valuable. Fork the repository, make your changes, and submit a pull request. Together, let's make Tic-Tac-Toe even more awesome!
